@@ -68,9 +68,9 @@ def helpEditor():
 def aboutEditor():
     messagebox.showinfo("About", "A tkinter based editor in python")
 #adding to our help menu
-helpmenu.add_cascade(label="Help",command=helpEditor)
+helpmenu.add_command(label="Help",command=helpEditor)
 helpmenu.add_separator()
-helpmenu.add_cascade(label="About",command=aboutEditor)
+helpmenu.add_command(label="About",command=aboutEditor)
 
 
 textArea.pack()
