@@ -7,7 +7,7 @@ For Early learning stages of python and tkinter
 A tkinter based Text Editor in Python
 ```
 
-## ![Calculator](caculator/README.md) 
+## ![Calculator](calculator/README.md) 
 
 ```
 A simple gui calculator 
