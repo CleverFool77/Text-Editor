@@ -1,13 +1,13 @@
 #Tkinter Based Projects
 For Early learning stages of python and tkinter
 
-## Text Editor
+## ![Text Editor](texteditor/README.md)
 
 ```
 A tkinter based Text Editor in Python
 ```
 
-## Calculator 
+## ![Calculator](caculator/README.md) 
 
 ```
 A simple gui calculator 
